@@ -1,0 +1,3 @@
+module spanmerge
+
+go 1.27.1
